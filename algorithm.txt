@@ -29,7 +29,7 @@ A vertex with higher degree of symmetry, like (3,6,3,6), will have larger amount
 2/3) (3,6,3,6)A1 and (3,6,3,6)A2: axial symmetry
 Since this vertex has two possible axes of symmetry, which are not equivalent (one passes through the triangles while the other passes through the hexagons), it has two different axially symmetrical forms.
 4) (3,6,3,6)R: rotational symmetry; the R symbol denotes "r"otation.
-5) (3,6,3,6)S: both axes of symmetry (and also the rotational symmetry); the S symbol denotes "s"ymmmetry.
+5) (3,6,3,6)S: both axes of symmetry (and also the rotational symmetry); the S symbol denotes "s"ymmetry.
 
 Now let's look at the most symmetrical vertex in the k-uniform Euclidean set, the vertex (3,3,3,3,3,3) or (3^6):
 1) (3,3,3,3,3,3)F: no global symmetry
